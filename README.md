@@ -1,2 +1,2 @@
-# WrapperOffline
-Wrapper Offline Files.
+# Wrapper Offline
+A repository containing all files for Wrapper: Offline.
